@@ -9,7 +9,7 @@
   },
   "description": "douyin_helper",
   "dependencies": {
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "shell": "^0.5.0"
   },
   "build": {
